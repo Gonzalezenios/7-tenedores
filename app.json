@@ -2,6 +2,11 @@
   "expo": {
     "name": "7-tenedores",
     "slug": "7-tenedores",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
