@@ -32,6 +32,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "aplicación  para encontrar restaurantes. Prueba piloto",
+    "githubUrl": "https://github.com/Gonzalezenios/7-tenedores.git"
   }
 }
